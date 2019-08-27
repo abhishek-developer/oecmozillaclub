@@ -26,3 +26,7 @@ Profiles of all members of oec mozilla club.
 ##### Branch: Electronics and Telecommunication Engineering
 ##### Batch: 2017-2021
 
+
+### Namit Nayan
+##### Branch: Computer Science & Engineering
+##### Batch: 2018 - 2022
