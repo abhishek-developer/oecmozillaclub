@@ -15,4 +15,7 @@ Profiles of all members of oec mozilla club.
 
 --------
 
+### Susanta Kumar Dutta
+##### Branch: Computer Science & Engineering
+##### Batch: 2018 - 2022
 
