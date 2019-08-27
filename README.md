@@ -27,7 +27,8 @@ Profiles of all members of oec mozilla club.
 ##### Batch: 2017-2021
 
 ---------------------------------------------
-###Shubham Kumar Shaw
-#####Branch: Computer Science & Engineering
-##### Batch: 2017 - 2021
+### Shubham Kumar Shaw
+##### Branch: Computer Science & Engineering
+##### Batch: 2017-2021
+
 ---------------------------------------------
