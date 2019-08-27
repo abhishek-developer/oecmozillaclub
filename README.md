@@ -22,3 +22,7 @@ Profiles of all members of oec mozilla club.
 ##### Branch: Computer Science & Engineering
 ##### Batch: 2018 - 2022
 
+### Biswajit pradhan
+##### Branch: Electronics and Telecommunication Engineering
+##### Batch: 2017-2021
+
