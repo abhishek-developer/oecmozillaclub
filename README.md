@@ -14,5 +14,8 @@ Profiles of all members of oec mozilla club.
 ##### Batch: 2016 - 2020
 
 --------
+### Sumit Prasad
+##### Branch: Computer Science & Engineering
+##### Batch: 2017 - 2021
 
 
