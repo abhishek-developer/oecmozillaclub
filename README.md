@@ -30,3 +30,9 @@ Profiles of all members of oec mozilla club.
 ### Namit Nayan
 ##### Branch: Computer Science & Engineering
 ##### Batch: 2018 - 2022
+---------------------------------------------
+### Shubham Kumar Shaw
+##### Branch: Computer Science & Engineering
+##### Batch: 2017-2021
+
+---------------------------------------------
