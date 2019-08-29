@@ -40,4 +40,7 @@ Profiles of all members of oec mozilla club.
 ##### Branch: Computer Science & Engineering
 ##### Batch: 2016 - 2020
 
+### abhishek kumar
+##### Branch: Computer Science & Engineering
+##### Batch: 2018 - 2022
 --------
